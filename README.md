@@ -1,1 +1,1 @@
-# CheeseCake2
+It is a type of cake.
